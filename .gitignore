@@ -1,0 +1,5 @@
+*.mp3
+*.wav
+*~
+\.mypy_cache
+venv
